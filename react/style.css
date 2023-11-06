@@ -1,0 +1,20 @@
+main {
+    display: flex;
+}
+
+.card {
+    width: 30%;
+    margin: 2.5%
+}
+
+.card-middle {
+    margin: 2.5% 0%;
+}
+
+.card-img {
+    width: 100%;
+}
+
+.hidden {
+    display: none;
+}
